@@ -2,7 +2,7 @@
 # 💻 **Juan Carlos Abarca**
 
 ### Java | Spring | Spring MVC | Spring Boot Developer
-### Python | Dyango
+### Python | Django
 
 
 ![Header Image](https://github.com/tuusuario/tu-repositorio/blob/main/imagen.png?raw=true)
