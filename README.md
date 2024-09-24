@@ -2,6 +2,8 @@
 # 💻 **Juan Carlos Abarca**
 
 ### Java | Spring | Spring MVC | Spring Boot Developer
+### Python | Dyango
+
 
 ![Header Image](https://github.com/tuusuario/tu-repositorio/blob/main/imagen.png?raw=true)
 
@@ -9,7 +11,7 @@
 
 ## 🚀 **About me**
 
-👋 Hi, I'm Juan C. Abarca O., Ingeniero especializado en docencia y desarrollo de software y tecnologías, tales como **Java**, **Spring Framework**. Me apasiona buscar la manera de ayudar a aprender y crear aplicaciones robustas y eficientes que resuelvan problemas del mundo real. Mi objetivo es traspasar didacticamente mi experiencia en la construcción de APIs RESTful, sistemas de backend y soluciones empresariales.
+👋 Hi, I'm Juan C. Abarca O., Ingeniero especializado en docencia, desarrollo de software y tecnologías, tales como **Java**, **Spring Framework**. Me apasiona buscar la manera de ayudar a aprender y crear aplicaciones robustas y eficientes que resuelvan problemas del mundo real. Mi objetivo es traspasar didacticamente mi experiencia en la construcción de APIs RESTful, sistemas de backend y soluciones empresariales.
 
 ---
 
